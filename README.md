@@ -27,7 +27,7 @@ This repository provides an advanced simulation environment for active battery c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/EVBatteryBalancing.git
+   git clone https://github.com/messlem99/EVBatteryBalancing.git
    cd EVBatteryBalancing
 ## Usage
 To test the simulation environment, follow these steps:
