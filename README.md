@@ -67,7 +67,7 @@ Contributions and enhancements are welcome. To get started:
 To cite this project in publications:
 ```bash
 @misc{EVBatteryBalancing2025,
-  author       = {Messlem Abdelkader and Messlem Youcef and Safa Ahmed},
+  author       = {Abdelkader Messlem and Youcef Messlem and Ahmed Safa},
   title        = {A Simulation Environment for Active Battery Cell Balancing Using Gymnasium},
   year         = {2025},
   howpublished = {\url{https://github.com/messlem99/Battery_Cell_Balancing}},
