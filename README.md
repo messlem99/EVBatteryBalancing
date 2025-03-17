@@ -27,9 +27,8 @@ This repository provides an advanced simulation environment for active battery c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/messlem99/Battery_Cell_Balancing
-.git
-   cd EVBatteryBalancing
+   git clone https://github.com/messlem99/Battery_Cell_Balancing.git
+   cd Battery_Cell_Balancing
 ## Usage
 To test the simulation environment, follow these steps:
 1. **Initialize the Environment:**
@@ -67,7 +66,7 @@ Contributions and enhancements are welcome. To get started:
 To cite this project in publications:
 ```bash
 @misc{EVBatteryBalancing2025,
-  author       = {Messlem Abdelkader,Messlem Youcef, Safa Ahmed},
+  author       = {Messlem Abdelkader and Messlem Youcef and Safa Ahmed},
   title        = {A Simulation Environment for Active Battery Cell Balancing Using Gymnasium},
   year         = {2025},
   howpublished = {\url{https://github.com/messlem99/Battery_Cell_Balancing}},
