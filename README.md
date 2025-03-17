@@ -1,4 +1,4 @@
-# EVBatteryBalancing
+# Active Cell Balancing in Batteries Under Dynamic Driving Conditions
 
 This repository provides an advanced simulation environment for active battery cell balancing using a reinforcement learning framework. It implements a custom Gymnasium environment that models the dynamics of a lithium-ion battery pack, focusing on energy transfer between adjacent cells to achieve optimal state-of-charge (SOC) balance.
 
@@ -27,14 +27,15 @@ This repository provides an advanced simulation environment for active battery c
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/messlem99/EVBatteryBalancing.git
+   git clone https://github.com/messlem99/Battery_Cell_Balancing
+.git
    cd EVBatteryBalancing
 ## Usage
 To test the simulation environment, follow these steps:
 1. **Initialize the Environment:**
    ```bash
    import gymnasium as gym
-   from EVBatteryBalancing import BatteryBalancingEnv
+   from Battery_Cell_Balancing import BatteryBalancingEnv
    env = BatteryBalancingEnv(driving_cycle_filepath="data.csv")
    observation, info = env.reset(seed=42)
 2. **Run a Simulation Episode:**
@@ -69,5 +70,5 @@ To cite this project in publications:
   author       = {Messlem Abdelkader,Messlem Youcef, Safa Ahmed},
   title        = {A Simulation Environment for Active Battery Cell Balancing Using Gymnasium},
   year         = {2025},
-  howpublished = {\url{https://github.com/messlem99/EVBatteryBalancing}},
+  howpublished = {\url{https://github.com/messlem99/Battery_Cell_Balancing}},
 }
