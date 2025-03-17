@@ -10,6 +10,7 @@ This repository provides an advanced simulation environment for active battery c
 - [Development](#development)
 - [License](#license)
 - [Citing](#Citing)
+- [References](#references)
 
 ## Features
 - **Realistic Battery Modeling:**  
@@ -71,3 +72,8 @@ To cite this project in publications:
   year         = {2025},
   howpublished = {\url{https://github.com/messlem99/Battery_Cell_Balancing}},
 }
+```
+## References
+- F. Baronti, W. Zamboni, N. Femia, R. Roncella, and R. Saletti, “Experimental analysis of open-circuit voltage hysteresis in lithiumiron-phosphate batteries,” in IECON 2013 - 39th Annual Conference of the IEEE Industrial Electronics Society. Vienna, Austria: IEEE, Nov. 2013, pp. 6728–6733. [Online]. Available: http://ieeexplore.ieee. org/document/6700246/
+- P. Ramadass, B. Haran, R. White, and B. N. Popov, “Mathematical modeling of the capacity fade of Li-ion cells,” Journal of Power Sources, vol. 123, no. 2, pp. 230–240, Sep. 2003. [Online]. Available: https://linkinghub.elsevier.com/retrieve/pii/S0378775303005317
+- G. Ning, B. Haran, and B. N. Popov, “Capacity fade study of lithium-ion batteries cycled at high discharge rates,” Journal of Power Sources, vol. 117, no. 1-2, pp. 160–169, May 2003. [Online]. Available: https://linkinghub.elsevier.com/retrieve/pii/S0378775303000296
