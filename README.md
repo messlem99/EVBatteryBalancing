@@ -1,6 +1,6 @@
 # Active Cell Balancing in Batteries Under Dynamic Driving Conditions
 
-This repository provides an advanced simulation environment for active battery cell balancing using a reinforcement learning framework. It implements a custom Gymnasium environment that models the dynamics of a lithium-ion battery pack, focusing on energy transfer between adjacent cells to achieve optimal state-of-charge (SOC) balance.
+This repository provides an advanced simulation environment for active battery cell balancing using a reinforcement learning framework. It implements a custom Gymnasium environment that models the dynamics of a lithium-ion battery pack, focusing on energy transfer between adjacent cells to achieve optimal voltage and state-of-charge (SOC) balance.
 
 ## Table of Contents
 - [Features](#features)
